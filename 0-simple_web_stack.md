@@ -10,7 +10,7 @@ This is a simple web infrastructure that hosts a website that is reachable via `
 
 ## Specifics About This Infrastructure
 
-
+(Use this space to write the specifics about the infrastructure)
 ## Issues With This Infrastructure
-
+(Use this space to write the specifics about the infrastructure)
 

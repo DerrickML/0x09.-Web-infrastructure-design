@@ -10,8 +10,9 @@ This is a distributed web infrastructure that atttempts to reduce the traffic to
 
 ## Specifics About This Infrastructure
 
-
+(Use this space to write the specifics about the infrastructure)
 
 ## Issues With This Infrastructure
+(Use this space to write the issues related to the infrastructure)
 
 
